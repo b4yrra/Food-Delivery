@@ -1,4 +1,4 @@
-export let books = [
+export let foods = [
   {
     id: 1,
     title: "Harry Potter",
